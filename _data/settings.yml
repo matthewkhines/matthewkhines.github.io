@@ -1,10 +1,10 @@
 menu:
-- {name: 'CV', url: '/cv'}
+- {name: 'Matthew K Hines', url: '/cv'}
 - {name: 'Blog', url: '/blog'}
 
 social:
 - {icon: 'github', link: 'https://matthewkhines.github.io'}
-- {icon: 'twitter', link: 'contact'}
-- {icon: 'instagram', link: 'contact'}
-- {icon: 'linkedin', link: 'contact'}
+- {icon: 'twitter', link: 'https://matthewkhines.github.io'}
+- {icon: 'instagram', link: 'https://matthewkhines.github.io'}
+- {icon: 'linkedin', link: 'https://matthewkhines.github.io'}
 
