@@ -1,0 +1,4 @@
+url: "https://matthewkhines.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+title: "Matthew K Hines" # the name of your site, e.g. ACME Corp.
+description: "Passionate About My Work"
